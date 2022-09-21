@@ -17,8 +17,9 @@
 		- [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard)
 
 - Compiler
+	- Aimer
+		- [browserslist](https://github.com/browserslist/browserslist)
 	- JavaScript Compiler
-		- [browserslist](https://github.com/browserslist/browserslist) 
 		- [rollup](https://github.com/rollup/rollup)
 		- [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve)
 		- [@rollup/plugin-commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs)
@@ -37,7 +38,6 @@
 		- [htmlnano](https://github.com/posthtml/htmlnano)
 
 	- CSS Compiler
-		- [browserslist](https://github.com/browserslist/browserslist) 
 		- [postcss-cli](https://github.com/postcss/postcss-cli)
 		- [postcss](https://github.com/postcss/postcss)
 		- [postcss-import](https://github.com/postcss/postcss-import)
