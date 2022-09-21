@@ -1,24 +1,23 @@
 # Credits
 
 - Formatter
-	- Prettier
-		- [prettier](https://github.com/prettier/prettier)
+	- [prettier](https://github.com/prettier/prettier)
 
 - Linter
-	- ESLint
+	- JavaScript Linter
 		- [eslint](https://github.com/eslint/eslint)
 		- [@babel/core](https://github.com/babel/babel/tree/main/packages/babel-core)
 		- [@babel/eslint-parser](https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser)
 		- [eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype)
-	- HTMLHint
+	- HTML Linter
 		- [htmlhint](https://github.com/HTMLHint/HTMLHint)
 
-	- Stylelint
+	- CSS Linter
 		- [stylelint](https://github.com/stylelint/stylelint)
 		- [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard)
 
 - Compiler
-	- Rollup
+	- JavaScript Compiler
 		- [browserslist](https://github.com/browserslist/browserslist) 
 		- [rollup](https://github.com/rollup/rollup)
 		- [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve)
@@ -31,13 +30,13 @@
 		- [regenerator-runtime](https://github.com/facebook/regenerator/tree/main/packages/runtime)
 		- [rollup-plugin-terser](https://github.com/TrySound/rollup-plugin-terser)
 
-	- PostHTML
+	- HTML Compiler
 		- [posthtml-cli](https://github.com/posthtml/posthtml-cli)
 		- [posthtml](https://github.com/posthtml/posthtml)
 		- [poathtml-include](https://github.com/posthtml/posthtml-include)
 		- [htmlnano](https://github.com/posthtml/htmlnano)
 
-	- PostCSS
+	- CSS Compiler
 		- [browserslist](https://github.com/browserslist/browserslist) 
 		- [postcss-cli](https://github.com/postcss/postcss-cli)
 		- [postcss](https://github.com/postcss/postcss)
