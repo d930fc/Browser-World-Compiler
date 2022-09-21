@@ -34,7 +34,7 @@
 	- HTML Compiler
 		- [posthtml-cli](https://github.com/posthtml/posthtml-cli)
 		- [posthtml](https://github.com/posthtml/posthtml)
-		- [poathtml-include](https://github.com/posthtml/posthtml-include)
+		- [posthtml-include](https://github.com/posthtml/posthtml-include)
 		- [htmlnano](https://github.com/posthtml/htmlnano)
 
 	- CSS Compiler
