@@ -13,7 +13,7 @@
 	- [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard)
 
 - Compiler
-	- [**browserslist**](https://github.com/browserslist/browserslist)
+	- [browserslist](https://github.com/browserslist/browserslist)
 	- [**rollup**](https://github.com/rollup/rollup)
 	- [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve)
 	- [@rollup/plugin-commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs)
