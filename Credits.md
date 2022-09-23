@@ -5,7 +5,7 @@
 
 - Linter
 	- [**eslint**](https://github.com/eslint/eslint)
-		- [@babel/eslint-parser](https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser), [eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype)
+		-  [eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype), [@babel/eslint-parser](https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser)
 	- [**htmlhint**](https://github.com/HTMLHint/HTMLHint)
 	- [**stylelint**](https://github.com/stylelint/stylelint)
 		- [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard)
