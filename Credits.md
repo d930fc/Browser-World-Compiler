@@ -18,7 +18,7 @@
 		- [rollup-plugin-terser](https://github.com/TrySound/rollup-plugin-terser)
 	- [**posthtml**](https://github.com/posthtml/posthtml), [posthtml-cli](https://github.com/posthtml/posthtml-cli)
 		- [posthtml-include](https://github.com/posthtml/posthtml-include)
-		- [posthtml-doctype](https://github.com/posthtml/posthtml-doctype), [posthtml-alt-always](https://github.com/ismamz/posthtml-alt-always), [posthtml-attrs-sorter](https://github.com/mrmlnc/posthtml-attrs-sorter)
+		- [posthtml-doctype](https://github.com/posthtml/posthtml-doctype)
 		- [htmlnano](https://github.com/posthtml/htmlnano)
 	- [**postcss**](https://github.com/postcss/postcss), [postcss-cli](https://github.com/postcss/postcss-cli)
 		- [postcss-import](https://github.com/postcss/postcss-import)
