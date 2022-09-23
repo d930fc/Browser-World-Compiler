@@ -11,8 +11,8 @@
 - Compiler
 	- [browserslist](https://github.com/browserslist/browserslist)
 	- [**rollup**](https://github.com/rollup/rollup)
-		- [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve)
-		- [@rollup/plugin-commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs), [@rollup/plugin-babel](https://github.com/rollup/plugins/tree/master/packages/babel), [@babel/preset-flow](https://github.com/babel/babel/tree/main/packages/babel-preset-flow), [@babel/preset-env](https://github.com/babel/babel/tree/main/packages/babel-preset-env), [core-js](https://github.com/zloirock/core-js), [regenerator-runtime](https://github.com/facebook/regenerator/tree/main/packages/runtime)
+		- [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve), [@rollup/plugin-commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs)
+		- [@rollup/plugin-babel](https://github.com/rollup/plugins/tree/master/packages/babel), [@babel/preset-flow](https://github.com/babel/babel/tree/main/packages/babel-preset-flow), [@babel/preset-env](https://github.com/babel/babel/tree/main/packages/babel-preset-env), [core-js](https://github.com/zloirock/core-js), [regenerator-runtime](https://github.com/facebook/regenerator/tree/main/packages/runtime)
 		- [rollup-plugin-terser](https://github.com/TrySound/rollup-plugin-terser)
 	- [**posthtml**](https://github.com/posthtml/posthtml), [posthtml-cli](https://github.com/posthtml/posthtml-cli)
 		- [posthtml-include](https://github.com/posthtml/posthtml-include)
