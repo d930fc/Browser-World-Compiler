@@ -4,11 +4,9 @@
 	- [Prettier](https://github.com/prettier/prettier/)
 
 - Linter
-	- [ESLint](https://github.com/eslint/eslint/)
-		- [eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype/), [@babel/eslint-parser](https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser/)
+	- [ESLint](https://github.com/eslint/eslint/), [eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype/), [@babel/eslint-parser](https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser/)
 	- [HTMLHint](https://github.com/HTMLHint/HTMLHint/)
-	- [Stylelint](https://github.com/stylelint/stylelint/)
-		- [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard/)
+	- [Stylelint](https://github.com/stylelint/stylelint/), [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard/)
 
 - Compiler
 	- [Browserslist](https://github.com/browserslist/browserslist/)
