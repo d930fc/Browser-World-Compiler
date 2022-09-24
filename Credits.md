@@ -16,7 +16,7 @@
 		- Compressor: [rollup-plugin-terser](https://github.com/TrySound/rollup-plugin-terser/)
 	- [PostHTML-CLI](https://github.com/posthtml/posthtml-cli/), [PostHTML](https://github.com/posthtml/posthtml/)
 		- Bundler: [posthtml-include](https://github.com/posthtml/posthtml-include/)
-		- Transpiler: none
+		- Transpiler: None
 		- Compressor: [htmlnano](https://github.com/posthtml/htmlnano/)
 	- [PostCSS-CLI](https://github.com/postcss/postcss-cli/), [PostCSS](https://github.com/postcss/postcss/)
 		- Bundler: [postcss-import](https://github.com/postcss/postcss-import/)
