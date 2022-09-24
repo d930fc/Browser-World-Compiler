@@ -11,15 +11,14 @@
 - Compiler
 	- [Browserslist](https://github.com/browserslist/browserslist/)
 	- [Rollup](https://github.com/rollup/rollup/)
-		- Bundle: [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve/), [@rollup/plugin-commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs/)
-		- Transform: [@rollup/plugin-babel](https://github.com/rollup/plugins/tree/master/packages/babel/), [@babel/preset-flow](https://github.com/babel/babel/tree/main/packages/babel-preset-flow/), [@babel/preset-env](https://github.com/babel/babel/tree/main/packages/babel-preset-env/), [core-js](https://github.com/zloirock/core-js/), [regenerator-runtime](https://github.com/facebook/regenerator/tree/main/packages/runtime/)
-		- Compress: [rollup-plugin-terser](https://github.com/TrySound/rollup-plugin-terser/)
+		- Bundler: [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve/), [@rollup/plugin-commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs/)
+		- Transpiler: [@rollup/plugin-babel](https://github.com/rollup/plugins/tree/master/packages/babel/), [@babel/preset-flow](https://github.com/babel/babel/tree/main/packages/babel-preset-flow/), [@babel/preset-env](https://github.com/babel/babel/tree/main/packages/babel-preset-env/), [core-js](https://github.com/zloirock/core-js/), [regenerator-runtime](https://github.com/facebook/regenerator/tree/main/packages/runtime/)
+		- Compressor: [rollup-plugin-terser](https://github.com/TrySound/rollup-plugin-terser/)
 	- [PostHTML-CLI](https://github.com/posthtml/posthtml-cli/), [PostHTML](https://github.com/posthtml/posthtml/)
-		- Bundle: [posthtml-include](https://github.com/posthtml/posthtml-include/)
-		- Transform: 
-		- Compress: [htmlnano](https://github.com/posthtml/htmlnano/)
+		- Bundler: [posthtml-include](https://github.com/posthtml/posthtml-include/)
+		- Transpiler: 
+		- Compressor: [htmlnano](https://github.com/posthtml/htmlnano/)
 	- [PostCSS-CLI](https://github.com/postcss/postcss-cli/), [PostCSS](https://github.com/postcss/postcss/)
-		- Bundle: [postcss-import](https://github.com/postcss/postcss-import/)
-		- Transform: [postcss-preset-env](https://github.com/csstools/postcss-plugins/tree/main/plugin-packs/postcss-preset-env/)
-		- Compress: [cssnano](https://github.com/cssnano/cssnano/)
-Merge, Transform, Compress
+		- Bundler: [postcss-import](https://github.com/postcss/postcss-import/)
+		- Transpiler: [postcss-preset-env](https://github.com/csstools/postcss-plugins/tree/main/plugin-packs/postcss-preset-env/)
+		- Compressor: [cssnano](https://github.com/cssnano/cssnano/)
