@@ -4,12 +4,14 @@
 	- [Prettier](https://github.com/prettier/prettier/)
 
 - Linter
-	- [ESLint](https://github.com/eslint/eslint/), [eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype/), [@babel/eslint-parser](https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser/)
+	- [ESLint](https://github.com/eslint/eslint/)
+		- [eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype/), [@babel/eslint-parser](https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser/)
 	- [HTMLHint](https://github.com/HTMLHint/HTMLHint/)
-	- [Stylelint](https://github.com/stylelint/stylelint/), [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard/)
+	- [Stylelint](https://github.com/stylelint/stylelint/)
+		- [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard/)
 
 - Compiler
-	- [Browserslist](https://github.com/browserslist/browserslist/)
+	- [browserslist](https://github.com/browserslist/browserslist/)
 	- [Rollup](https://github.com/rollup/rollup/)
 		- [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve/)
 		- [@rollup/plugin-commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs/), [@rollup/plugin-babel](https://github.com/rollup/plugins/tree/master/packages/babel/), [@babel/preset-flow](https://github.com/babel/babel/tree/main/packages/babel-preset-flow/), [@babel/preset-env](https://github.com/babel/babel/tree/main/packages/babel-preset-env/), [core-js](https://github.com/zloirock/core-js/), [regenerator-runtime](https://github.com/facebook/regenerator/tree/main/packages/runtime/)
