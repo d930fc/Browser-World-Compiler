@@ -1,4 +1,4 @@
-# Credits
+# Browser World Compiler
 
 - Formatter
 	- [prettier](https://github.com/prettier/prettier/)
